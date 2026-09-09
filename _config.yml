@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Benjamin Towle"
   avatar           : "BenjaminTowle id.jpg"
-  bio              : "CS PhD student at University of Nottingham"
+  bio              : "Postdoctoral Researcher at University of Nottingham"
   location         : "Nottingham, UK"
-  employer         :
+  employer         : "University of Nottingham"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=t2qqHaAAAAAJ&hl=en"
-  email            :
+  email            : "benjamin.towle@nottingham.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
